@@ -11,13 +11,13 @@
 
 - 📫 Fale comigo em **thiagobordini@outlook.com**
 
-- 📄 Saiba mais sobre mim em [www.linkedin.com/in/thiago-bordini](www.linkedin.com/in/thiago-bordini)
+- 📄 Saiba mais sobre mim em (linkedin.com/in/thiago-bordini)
 
 - ⚡ Curiosidades sobre mim: **Apaixonado por Games e pela Cultura Sneakerhead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/thiago-bordini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thiago-bordini" height="30" width="40" /></a>
+<a href="linkedin.com/in/thiago-bordini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thiago-bordini" height="30" width="40" /></a>
 <a href="https://instagram.com/@thiago_bordini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thiago_bordini" height="30" width="40" /></a>
 </p>
 
