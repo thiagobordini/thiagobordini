@@ -2,7 +2,7 @@
 <h3 align="center">Explorando o Universo dos Dados ['Jornada de Aprendizado de um Estudante de Data Science']</h3>
 
 ## ⭐️ Sobre mim
-<div align='center'>
+<div>
 Boas-vindas ao meu perfil no GitHub! Sou um estudante dedicado, atualmente cursando o último ano do <b>Técnico em Desenvolvimento de Sistemas</b>. Meu caminho na programação me conduziu a um interesse crescente em Data Science. Estou mergulhando de cabeça nesse universo, buscando conhecimento por meio de estudos autônomos. Através do estudo de ferramentas e metodologias, estou <b>adquirindo as habilidades necessárias</b> para extrair informações significativas a partir de <b>dados</b> e transformá-las em <b>insights valiosos</b>.
 </div>
 
