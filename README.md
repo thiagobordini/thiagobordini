@@ -3,15 +3,11 @@
 
 - 🔭 Atualmente cursando técnico em Desenvolvimento de Sistemas (3/3) **TCC - Search Book (em progresso...)**
 
-- 🌱 Estudando e consolidando meu conhecimento em **Python (Bibliotecas) e Linguagem SQL**
+- 🌱 Estudando e consolidando meu conhecimento no **Mundo dos Dados**
 
 - 👯 Procuro colaborar em **projetos de Ciência e Análise de Dados**
 
 - 💬 Me pergunte sobre **Data Analytics, Big Data e Data Science**
-
-- 📫 Fale comigo em **thiagobordini@outlook.com**
-
-- 📄 Saiba mais sobre mim em [www.linkedin.com/in/thiago-bordini](www.linkedin.com/in/thiago-bordini)
 
 - ⚡ Curiosidades sobre mim: **Apaixonado por Games e pela Cultura Sneakerhead**
 
