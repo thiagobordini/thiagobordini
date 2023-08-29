@@ -22,8 +22,6 @@ Boas-vindas ao meu perfil no GitHub! Sou um estudante dedicado, atualmente cursa
 <a href = "mailto:thiagobordini@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-bordini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
 <!--
 **thiagobordini/thiagobordini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
