@@ -6,7 +6,7 @@
 Boas-vindas ao meu perfil no GitHub! Sou um estudante dedicado, atualmente cursando o último ano do <b>Técnico em Desenvolvimento de Sistemas</b>. Meu caminho na programação me conduziu a um interesse crescente em Data Science. Estou mergulhando de cabeça nesse universo, buscando conhecimento por meio de estudos autônomos. Através do estudo de ferramentas e metodologias, estou <b>adquirindo as habilidades necessárias</b> para extrair informações significativas a partir de <b>dados</b> e transformá-las em <b>insights valiosos</b>.
 </div>
 
-## Studando neste momento:
+## Estudando neste momento:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
