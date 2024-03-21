@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago Bordini</h1>
-<h3 align="center">Explorando o Universo dos Dados</h3>
+<h3 align="center">Estudante de Data Science na FIAP</h3>
 
 ## ⭐️ Sobre mim
 <div>
-Boas-vindas ao meu perfil no GitHub! Meu caminho na programação me conduziu a um interesse crescente em Data Science. Estou mergulhando de cabeça nesse universo, buscando conhecimento por meio de estudos autônomos. Através do estudo de ferramentas e metodologias, estou <b>adquirindo as habilidades necessárias</b> para extrair informações significativas a partir de <b>dados</b> e transformá-las em <b>insights valiosos</b>.
+Boas-vindas ao meu perfil no GitHub! Sou técnico em Desenvolvimento de Sistemas, formado pela instituição ETEC Doutor Celso Giglio, e atualmente estudante de Data Science na faculdade FIAP. Estou em constante busca por aprimoramento e atualização profissional, focado na área de dados, explorando temas como <b>big data</b>, <b>ciência</b> e <b>engenharia de dados</b>.
 </div>
 
 ## Estudando neste momento:
