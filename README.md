@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Thiago Bordini</h1>
+<h1 align="center">Olá, Eu sou o Thiago Bordini</h1>
 <h3 align="center">Estudante de Data Science na FIAP</h3>
 
 ##
