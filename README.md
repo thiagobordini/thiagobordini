@@ -38,6 +38,11 @@
  </h1>
 </div>
 
+<br>
+<br>
+
+<img width=100% bottom=50px src="https://github.com/thiagobordini/thiagobordini/assets/143452711/80b2358d-bdb9-4435-979d-3c0b1b8c746b"/>
+
 
 <!--
 **thiagobordini/thiagobordini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
