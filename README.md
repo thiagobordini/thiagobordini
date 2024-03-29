@@ -14,11 +14,10 @@
 
 </div>
 
-#
-
+<br>
 
 <div>
-<h1 align=center>HARD SKILLS
+<h1>Hard Skills</h1>
   
 ![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
@@ -26,16 +25,17 @@
 ![SqLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
-</h1>
 </div>
+
+<br>
 
  
 <div>
-<h1 align=center>CONTATO
+<h1>Contatos</h1>
   
   <a href = "mailto:thiagobordini@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-bordini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- </h1>
+ 
 </div>
 
 <br>
