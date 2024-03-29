@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=welcome%3A;Hello%2C+my+name+is+Thiago;I'm+a+Data+Science+Student+at+FIAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem-vindo(a)+;Ol%C3%A1%2C+me+chamo+Thiago;Sou+estudante+de+Data+Science+na+FIAP)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <div>
-<h1>Hard Skills</h1>
+<h1>Habilidades Técnicas</h1>
   
 ![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
